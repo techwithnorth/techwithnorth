@@ -1,6 +1,5 @@
-Bash aliases
+#Bash aliases _(ver.2)_
 
-(Level 2)
 The nice approach is move all of your's aliases to separate folder. You can do it by adding the following line to .bashrc
 
 . ~/.aliases
