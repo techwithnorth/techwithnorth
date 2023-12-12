@@ -24,9 +24,11 @@ Here's some ideas based on that what I use daily
     alias vi='nvim'
     alias vim='nvim'
 
-\### directories
-    alias cddoc='cd ~/Documents'
+\### directories 
+
+    alias cddoc='cd ~/Documents'  
     alias cdd='cd ~/Documents/Download'
 
-\### system
+\### system  
+
     alias s='sudo'
